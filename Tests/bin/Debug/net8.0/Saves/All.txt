@@ -1,0 +1,10 @@
+[
+  {
+    "Settings": {
+      "Name": "basic task name",
+      "Description": "task description",
+      "IsDone": false,
+      "DueDate": "0001-01-01T00:00:00"
+    }
+  }
+]
